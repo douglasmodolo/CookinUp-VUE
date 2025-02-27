@@ -19,6 +19,7 @@
 </script>
 
 <template>
+    TESTE
     <section class="selecionar-ingredientes">
         <h1 class="cabecalho titulo-ingredientes">Ingredientes</h1>
 
